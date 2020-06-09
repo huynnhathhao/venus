@@ -1,3 +1,4 @@
+from __future__ import print_function
 import numpy as np
 class NormalEquation():
     def __init__(self):
